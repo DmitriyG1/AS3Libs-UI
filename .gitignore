@@ -1,0 +1,32 @@
+################
+# Intelij Idea #
+################
+
+out/
+*.iml
+*.iws
++.idea
+.idea/
+*/.idea/workspace.xml
++
+
+#############
+## FlashDevelop
+#############
+
+game.lxml
+game.as3proj
+obj/
+lib/
+
+#############
+## SourceTree
+#############
+
+.git/
+
+
+#############
+## Mac OS
+#############
+.DS_Store
